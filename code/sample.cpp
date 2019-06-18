@@ -1,6 +1,6 @@
 // log4cpp.cpp
 // g++ -gstabs+ -w -Iheaders log4cpp.cpp -o log4cpp_exe -llog4cpp -lpthread 
-
+//dsmapjg;adjs;flkadjsflkadsj;fk
 #include "log4cpp/Category.hh"
 #include "log4cpp/Appender.hh"
 #include "log4cpp/FileAppender.hh"
