@@ -6,3 +6,7 @@ http://programmingknowledgeblog.blogspot.com/search/label/Log4cpp
 2.  gedit ~/.bashrc
 3.  export LD_LIBRARY_PATH=/usr/local/lib
 4.  source ~/.bashrc
+
+
+/////////////////
+https://logging.apache.org/log4cxx/next_stable/building/autotools.html
